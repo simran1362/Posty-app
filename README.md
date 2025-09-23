@@ -9,6 +9,14 @@ Minimal Node.js Markdown blog.
 - Auto slug generation from title
 - No database, just files
 
+## Contributing
+
+Want to add a post or contribute to the project? Check out our [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions on:
+- Adding new posts
+- Setting up the development environment
+- Pull request process
+- Code style guidelines
+
 ## Requirements
 - Node.js 18+
 
